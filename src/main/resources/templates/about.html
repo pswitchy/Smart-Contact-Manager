@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	th:replace="base::layout(~{::section})">
+<head>
+<meta charset="UTF-8" />
+<title>this is home page</title>
+</head>
+<body>
+<section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 mt-5">
+                    <div class="text-center">
+                        <img th:src="@{/img/swapnil1.jpg}" class="rounded-circle" width="200px" height="200px" alt="Your Photo">
+                    </div>
+                </div>
+                <div class="col-md-6 mt-5">
+                    <h2>About Me</h2>
+                    <p>
+                        <strong>Name:</strong> Swapnil Rajendra Take<br>
+                        <strong>Email:</strong> Swapniltake1@outlook.com<br>
+                        <strong>Phone:</strong> +91 8600789879<br>
+                        <strong>Address:</strong> Pune, Maharashtra, India<br>
+                        <strong>Education:</strong> BE Computer Engineering<br>
+                    </p>
+                    <p>
+                        Visit my website: <a th:href="@{https://www.youtube.com/@thecodebreaker}" target="_blank">www.takecodebreaker.com</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
