@@ -44,8 +44,6 @@ These technologies enable you to build a robust and secure contact management ap
 
 # Project Structure
 
-![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/a50c7fdb-d794-419c-a17b-96896359f75c)
-
 
 ![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/1c5d0c70-c6cc-4af2-8dce-78370c8bf326)
 
