@@ -42,14 +42,6 @@ These technologies enable you to build a robust and secure contact management ap
 ![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/ac8f042e-6473-4a41-bc19-754afaec79d2)
 
 
-# Project Structure
-
-
-![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/1c5d0c70-c6cc-4af2-8dce-78370c8bf326)
-
-
-![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/0a5f6ccc-3f10-45f4-aa91-9426b4fcc34b)
-
 # Jar Created
 smartcontactmanager\target\smartcontactmanager-0.0.1-SNAPSHOT.jar
 
